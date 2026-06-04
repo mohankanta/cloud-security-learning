@@ -33,3 +33,5 @@ Become a Cloud Security Engineer at Cloudflare
 | Day | Date | Topics |
 |-----|------|--------|
 | Day 1 | May 26, 2026 | Cloudflare basics, CIA Triad, Python script |
+| Day 2 | May 28, 2026 | Introduction to LAN |
+| Day 3 | May 29, 2026 | What is IP | 
