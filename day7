@@ -1,0 +1,21 @@
+## Day 7 - Linux Web Tools (curl and wget)
+
+### Commands learned:
+- curl -k https://site.com → fetch webpage
+- curl -k -I https://site.com → see HTTP headers
+- wget --no-check-certificate → download webpage
+
+### What I discovered:
+- College WiFi uses a proxy server
+- Found proxy in HTTP headers: port 3128
+- 403 Forbidden means proxy is blocking
+
+### Security headers I found on github.com:
+- Via: HTTPS/1.1 forward.http.proxy:3128
+- Content-Type: text/html
+- Connection: close
+
+### Key learning:
+- curl and wget are daily security tools
+- HTTP headers reveal network architecture
+- Finding a proxy server = real security skill
