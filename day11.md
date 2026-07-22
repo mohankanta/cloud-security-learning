@@ -1,4 +1,4 @@
-## Day 10 - What is a Network
+## Day 11 - What is a Network
 
 ### Key concepts learned:
 - Network = 2 or more devices connected
